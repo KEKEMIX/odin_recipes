@@ -1,1 +1,3 @@
-this project is going to be about a page with extra pages with recipes
+This is a website created for shering my favorite meals and how to prepared them
+
+this web is divided in pages with which your are going to look for the meal that your are interested in. as you can see you can acces to this recipes by clicking on the links on the main page...
