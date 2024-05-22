@@ -1,0 +1,51 @@
+.links{
+    background-color:rgb(240, 255, 24);
+    color:rgb(253, 11, 11);
+    font-size:29px;
+
+}
+
+body{
+    background-color: rgb(234, 243, 242);
+    background-size: cover;
+    
+
+}
+img{
+    border-radius: 20%;
+}
+h2,
+h3{
+    color:red;
+}
+p,
+li{
+    color: rgb(34, 21, 21);
+    font-weight: bold;
+}
+#mctitle{
+    
+    font-weight:bold;     
+    color: yellow;
+    font-size: 80px;
+    font-family:'Courier New', Courier, monospace
+}
+.mcback,
+#mctitle{
+
+    background-color: red;
+    position: relative;
+    left:80px;
+    
+    border-radius: 70%;
+    width: 11cm;
+
+}
+.back-main{
+    position: relative;
+    color: white;
+    
+    border-radius:40%;
+    background-color:red;
+
+}
